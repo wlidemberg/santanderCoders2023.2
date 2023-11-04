@@ -28,7 +28,7 @@
 
 
 ![comando criar branch](/imgs/criarBranch.jpeg)
-    ---
+---
 
 3. **Comitar em um Branch:** Quando você faz commits em um branch, os commits são registrados nesse branch específico. Isso permite que você desenvolva recursos ou correções de bugs separadamente.
 
