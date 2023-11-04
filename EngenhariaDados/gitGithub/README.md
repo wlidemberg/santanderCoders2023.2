@@ -12,8 +12,9 @@
 > - *git restore --staged* -> Remove o arquivo da area de staged change(unmodified) e retorna pro changes(modified).<br>
 > - *git push* -> Sobe nossos arquivos e alterações para nosso repositório remoto.<br>
 > - *git pull* -> faz um merge(junta) automatico do que tinha no seu repositótio remoto com o que vc tem no local.<br>
-> - *git fetch* -> faz um merge(junta) do que tinha no seu repositório remoto mas não executa automaticamente, e usamos o comando *git diff* para verificar as alterações que esta vindo do repositório remoto e logo apos de verificar as alterações entramos com o comando *git pull* para mergear nossos  repositorios.<br>
-<br><br>
+> - *git fetch* -> faz um merge(junta) do que tinha no seu repositório remoto mas não executa automaticamente, e usamos o comando *git diff* para verificar as alterações que esta vindo do repositório remoto e logo apos de verificar as alterações entramos com o comando *git pull* para mergear nossos  repositorios.
+
+
 ## Branch
 
 
