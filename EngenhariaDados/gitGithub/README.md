@@ -15,6 +15,13 @@
 > - *git fetch* -> faz um merge(junta) do que tinha no seu repositório remoto mas não executa automaticamente, e usamos o comando *git diff* para verificar as alterações que esta vindo do repositório remoto e logo apos de verificar as alterações entramos com o comando *git pull* para mergear nossos  repositorios.
 
 
+
+
+
+
+
+
+
 ## Branch
 
 
