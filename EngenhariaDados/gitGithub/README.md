@@ -40,7 +40,7 @@
 8. **Exclusão de Branches:** Você pode excluir branches após concluí-los ou quando não são mais necessários.
 
 Em resumo, branches no Git são uma ferramenta fundamental que permite o desenvolvimento paralelo e organizado de código, facilitando a colaboração e o gerenciamento de diferentes recursos e versões de um projeto.
----
+
 ### Comandos
 > 1. **Criar uma branch:** para criar um novo branch no Git, você pode usar o comando **'git branch'** seguido pelo nome do novo branch.por exemplo:
 
