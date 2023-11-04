@@ -1,6 +1,6 @@
 # Inciando o curso de Git
 
-> ## Principais comandos
+## Principais comandos
 > - *git init*       -> usado para iniciar um repositorio git(uma pasta oculta será criada com o nome git).<br>
 > - *git status*     -> verifica o status de altereção do repositorio local e mostra a branch que estamos.<br>
 > - *git diff*       -> Mostra exatamente as linhas que foram modificadas o que aparece em vermelho e que foi retirado e verde o que alterado ou acrescentado.<br>
