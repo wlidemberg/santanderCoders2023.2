@@ -44,31 +44,31 @@ Em resumo, branches no Git são uma ferramenta fundamental que permite o desenvo
 ### Comandos
 
 > 1. **Criar uma branch:** para criar um novo branch no Git, você pode usar o comando **'git branch'** seguido pelo nome do novo branch.por exemplo:
-
+>
 > ![comando criar branch](/imgs/criarBranch.jpeg)
 
 > 2. **Comitar em um branch:** Use o comando **'git commit'** para confirmar as mudanças em um branch especifico. Certifique-se de estar no branch desejado antes de fazer um commit.
-
+>
 > ![Commit na branch](/imgs/comitarBranch.jpg)
 
 > 3. **Mudança de branch:** Para alternar entre branch's, você pode usar o comando **'git checkout'** seguido do nome o branch que deseja mudar.
-
+>
 > ![Mudança de branch](/imgs/alternarBranch.jpg)
 
 > 4. **Fusão(merge) de branches:** Use o comando **'git merge'** para fundir um branch em outro.Certifique-se no branch de destino antes de executar o comando.
-
+>
 > ![Merge de branch's](/imgs/mergeBrach.jpg)
 
 > 5. **Branches Remotos:** Ao trabalhar com repositórios remotos, você pode usar o comando **'git push'** para enviar um repositório local para um repositório remoto e **'git pull'** para obter atualizações dos branches remotos.Para rastrear um branch remoto, use **'git fetch'** seguido do **'git checkout'** ou **'git merge'**.
-
+>
 > ![branches remotos](/imgs/branchRemoto.jpg)
 
 > 6. **Rastreamento(tracking) de branches:** Para configurar um branch local para rastrear um branch remoto, você pode usar o comando **'git branch'** com a opção **'--set-upstream-to'** ou **'--track'**, ou simplismente usar **'git push'** com a opção **'-u  '** para definir o upstream.
-
+>
 > ![Rastreamento(tracking) de branches](/imgs/trackingBranch.jpg)
 
 > 7. **Exclusão de branches:** Para excluir um branch no Git, use o comando **'git branch'**, com a opção **'-d'** para excluir localmente.Use a opção **'-D'** para forçar a exclusão, mesmo se houver commits não mesclados.
-
+>
 > ![Exclusão de branches](/imgs/exclusaoBranch.jpg)
 
 Lembre-se de que é importante ter cuidado ao usar comandos que excluam branches, pois os commits e as mudanças não mescladas podem ser perdidos. Certifique-se de que você está fazendo isso com segurança.
