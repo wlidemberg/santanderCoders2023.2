@@ -25,7 +25,7 @@
 1. **Branch Principal (Master/Main):** O branch principal é a linha de desenvolvimento padrão em um repositório Git. É a base a partir da qual outras branches podem ser criadas.
 
 2. **Criar um Branch:** Você pode criar um novo branch a partir do branch principal ou de outro branch existente. Isso cria uma cópia independente do código que você pode modificar sem afetar o branch original.
-![comando criar branch](imgs/criarBranch.jpg)
+![comando criar branch](/imgs/criarBranch.jpg)
 
 3. **Comitar em um Branch:** Quando você faz commits em um branch, os commits são registrados nesse branch específico. Isso permite que você desenvolva recursos ou correções de bugs separadamente.
 
