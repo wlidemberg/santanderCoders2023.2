@@ -9,5 +9,5 @@
 > - *git commit - m* -> Efetua um commit nas alterações alterando seu estado pra unmodified acompanhado de uma mensagem descrevendo esse commit
 > - *git log* -> Exibe um histrórico de commits, mostrando a branch, o autor, a data, a mensagem do commit e a hash(checksun) desse commit
 > - *git restore* -> Remove as alterações feitas no arquivo
-> - *git restore --staged* Remove o arquivo da area de staged change(unmodified) e retorna pro changes(modified)
+> - *git restore --staged* -> Remove o arquivo da area de staged change(unmodified) e retorna pro changes(modified)
 > - *git push* -> Sobe nossos arquivos e alterações para nosso repositório remoto.
