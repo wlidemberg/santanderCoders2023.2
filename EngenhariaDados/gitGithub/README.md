@@ -42,6 +42,7 @@
 Em resumo, branches no Git são uma ferramenta fundamental que permite o desenvolvimento paralelo e organizado de código, facilitando a colaboração e o gerenciamento de diferentes recursos e versões de um projeto.
 
 ### Comandos
+
 > 1. **Criar uma branch:** para criar um novo branch no Git, você pode usar o comando **'git branch'** seguido pelo nome do novo branch.por exemplo:
 
 > ![comando criar branch](/imgs/criarBranch.jpeg)
