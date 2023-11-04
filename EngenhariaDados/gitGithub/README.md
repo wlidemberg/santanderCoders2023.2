@@ -32,6 +32,8 @@
 
 3. **Comitar em um Branch:** Quando você faz commits em um branch, os commits são registrados nesse branch específico. Isso permite que você desenvolva recursos ou correções de bugs separadamente.
 
+![Commit na branch](/imgs/comitarBranch.jpg)
+
 4. **Mudança de Branch:** Você pode alternar entre branches ativos no seu repositório Git. Isso permite que você trabalhe em diferentes partes do projeto.
 
 5. **Fusão (Merge) de Branches:** Quando você termina o trabalho em um branch e deseja incorporar as mudanças de volta ao branch principal ou a outro branch, você pode fazer uma fusão (merge). Isso combina os commits de um branch em outro.
