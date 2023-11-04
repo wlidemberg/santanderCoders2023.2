@@ -26,15 +26,13 @@
 
 2. **Criar um Branch:** Você pode criar um novo branch a partir do branch principal ou de outro branch existente. Isso cria uma cópia independente do código que você pode modificar sem afetar o branch original.
 
-
-![comando criar branch](/imgs/criarBranch.jpeg)
----
-
 3. **Comitar em um Branch:** Quando você faz commits em um branch, os commits são registrados nesse branch específico. Isso permite que você desenvolva recursos ou correções de bugs separadamente.
 
 ![Commit na branch](/imgs/comitarBranch.jpg)
+---
 
 4. **Mudança de Branch:** Você pode alternar entre branches ativos no seu repositório Git. Isso permite que você trabalhe em diferentes partes do projeto.
+
 
 5. **Fusão (Merge) de Branches:** Quando você termina o trabalho em um branch e deseja incorporar as mudanças de volta ao branch principal ou a outro branch, você pode fazer uma fusão (merge). Isso combina os commits de um branch em outro.
 
@@ -45,7 +43,13 @@
 8. **Exclusão de Branches:** Você pode excluir branches após concluí-los ou quando não são mais necessários.
 
 Em resumo, branches no Git são uma ferramenta fundamental que permite o desenvolvimento paralelo e organizado de código, facilitando a colaboração e o gerenciamento de diferentes recursos e versões de um projeto.
+---
+---
+### Comandos
+> - 1. **Criar uma branch:** para criar um novo branch no Git, você pode usar o comando **'git branch'** seguido pelo nome do novo branch.por exemplo:
 
+![comando criar branch](/imgs/criarBranch.jpeg)
+---
 
 
 
