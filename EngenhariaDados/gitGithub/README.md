@@ -15,8 +15,7 @@
 > - *git fetch* -> faz um merge(junta) do que tinha no seu repositório remoto mas não executa automaticamente, e usamos o comando *git diff* para verificar as alterações que esta vindo do repositório remoto e logo apos de verificar as alterações entramos com o comando *git pull* para mergear nossos  repositorios.
 
 ## Branch
-    é uma linha independente de desenvolvimento que representa uma série de commits (ou confirmações) em um repositório Git. Cada branch 
-    é uma ramificação da árvore de commits principal, que é geralmente chamada de "branch master" ou "branch main". Branches permitem que
-    você trabalhe em diferentes recursos, correções de bugs ou versões do seu projeto sem interferir no trabalho em outras partes do
-    código.
+    é uma linha independente de desenvolvimento que representa uma série de commits (ou confirmações) em um repositório Git. 
+    Cada branch é uma ramificação da árvore de commits principal, que é geralmente chamada de "branch master" ou "branch main".
+    Branches permitem que você trabalhe em diferentes recursos, correções de bugs ou versões do seu projeto sem interferir no trabalho em outras partes do código.
 Aqui estão alguns conceitos-chave relacionados a branches no Github:
