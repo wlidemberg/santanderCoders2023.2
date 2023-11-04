@@ -19,3 +19,28 @@
 >Cada branch é uma ramificação da árvore de commits principal, que é geralmente chamada de "branch master" ou "branch main".
 >Branches permitem que você trabalhe em diferentes recursos, correções de bugs ou versões do seu projeto sem interferir no trabalho em outras partes do código.
 >Aqui estão alguns conceitos-chave relacionados a branches no Github:
+
+### Conceitos chaves de branch no GIT
+
+1. **Branch Principal (Master/Main):** O branch principal é a linha de desenvolvimento padrão em um repositório Git. É a base a partir da qual outras branches podem ser criadas.
+
+2. **Criar um Branch:** Você pode criar um novo branch a partir do branch principal ou de outro branch existente. Isso cria uma cópia independente do código que você pode modificar sem afetar o branch original.
+
+3. **Comitar em um Branch:** Quando você faz commits em um branch, os commits são registrados nesse branch específico. Isso permite que você desenvolva recursos ou correções de bugs separadamente.
+
+4. **Mudança de Branch:** Você pode alternar entre branches ativos no seu repositório Git. Isso permite que você trabalhe em diferentes partes do projeto.
+
+5. **Fusão (Merge) de Branches:** Quando você termina o trabalho em um branch e deseja incorporar as mudanças de volta ao branch principal ou a outro branch, você pode fazer uma fusão (merge). Isso combina os commits de um branch em outro.
+
+6. **Branches Remotos:** Além de branches locais, o Git também permite que você trabalhe com branches remotos em repositórios compartilhados. Isso é útil para colaboração em equipe.
+
+7. **Rastreamento (Tracking) de Branches:** Você pode configurar branches locais para rastrear branches remotos. Isso permite que você mantenha seu branch local sincronizado com as atualizações do branch remoto.
+
+8. **Exclusão de Branches:** Você pode excluir branches após concluí-los ou quando não são mais necessários.
+
+Em resumo, branches no Git são uma ferramenta fundamental que permite o desenvolvimento paralelo e organizado de código, facilitando a colaboração e o gerenciamento de diferentes recursos e versões de um projeto.
+
+
+
+
+
