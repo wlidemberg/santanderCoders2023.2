@@ -7,3 +7,5 @@
 > - *gif diff --staged* -> Mostra as linha que foram modificadas nos arquivos que ja foram para o staged, ou seja, apos o comando *git add .*
 > - *git add .*      -> adiciona todas as modificações feitas em nosso repositório local coloca em staged
 > - *git commit - m* -> Efetua um commit nas alterações alterando seu estado pra unmodified acompanhado de uma mensagem descrevendo esse commit
+> - *git log* -> Exibe um histrórico de commits, mostrando a branch, o autor, a data, a mensagem do commit e a hash(checksun) desse commit
+> - *git restore* -> Remove as alterações feitas no arquivo
