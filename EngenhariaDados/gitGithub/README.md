@@ -16,4 +16,4 @@
 
 ## Branch
     é uma linha independente de desenvolvimento que representa uma série de commits (ou confirmações) em um repositório Git. Cada branch é uma ramificação da árvore de commits principal, que é geralmente chamada de "branch master" ou "branch main". Branches permitem que você trabalhe em diferentes recursos, correções de bugs ou versões do seu projeto sem interferir no trabalho em outras partes do código.
-Aqui estão alguns conceitos-chave relacionados a branches no Git:
+Aqui estão alguns conceitos-chave relacionados a branches no Github:
