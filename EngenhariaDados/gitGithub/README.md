@@ -11,3 +11,4 @@
 > - *git restore* -> Remove as alterações feitas no arquivo
 > - *git restore --staged* -> Remove o arquivo da area de staged change(unmodified) e retorna pro changes(modified)
 > - *git push* -> Sobe nossos arquivos e alterações para nosso repositório remoto.
+> - *git pull* -> faz um merge(junta) automatico do que tinha no seu repositótio remoto com o que vc tem no local
